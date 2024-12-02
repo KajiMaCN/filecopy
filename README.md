@@ -1,2 +1,6 @@
 # filecopy
-File copy program created for SONY A7C2
+因为索尼A7C2把ARAW文件和JPG文件存在一个文件夹里，不好操作，所以写个程序方便复制文件。
+功能简单，界面毛胚，主打一个能用就行，如果有BUG，可在issues中提问，或者邮件联系我。
+
+### 注意：
+windows程序文件可以在Releases中找到，下载直接运行即可
